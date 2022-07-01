@@ -1,4 +1,4 @@
-# Momentum Dashboard for Chrome
+# Card War Game
 ## Table of Content
 
  * [Overview of the Project](#overview-of-the-project)
