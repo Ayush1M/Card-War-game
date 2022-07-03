@@ -30,7 +30,9 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 
 ## What I Learned
 * How to read through API documentation and use different API data.
-* How to throw and catch error to add default image value if unsplash API fails to load.
+* Learned about Callback function.
+* Learned about Promises.
+* Learned about async/await.
 
 ## Acknowledgment
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
