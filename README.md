@@ -14,6 +14,8 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 ### Goal of the Project
 * The Goal of this is to use the deckofcards API to call cards.
 * To draw two cards one for myself and other one for computer.
+* Display the remaining cards when we draw two new cards.
+* Disable the draw button when remaining cards is zero.
 
 ## Screenshot
 
