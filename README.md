@@ -12,12 +12,8 @@
 The project is focused on making a Momentum Dashboard for the browser and make it as a chrome extension so that the user can use it in their browser also.
 
 ### Goal of the Project
-* The Goal of this project is install it as a chrome extension so the user can use it as a browser.
-* See the new browser each time a new tab is opened.
-* See the new image if the unsplash API fails to load.
-* See the local weather conditions if the user give the location access.
-* See the current price of crytocurrency and its 24Hr highest and lowest price.
-* Show the user the current time and greet them with good morning, afternoon, evening and night.
+* The Goal of this is to use the deckofcards API to call cards.
+* To draw two cards one for myself and other one for computer.
 
 ## Screenshot
 
