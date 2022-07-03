@@ -9,7 +9,7 @@
  * [Acknowledgement](#acknowledgement)
 
 # Overview of the Project
-The project is focused on making a Momentum Dashboard for the browser and make it as a chrome extension so that the user can use it in their browser also.
+The project is focused on making a Card war game using Deckofcards API to call cards. It works on the simple principle of cards game in which Ace is the biggest and follows a decreasing order pattern.
 
 ### Goal of the Project
 * The Goal of this is to use the deckofcards API to call cards.
@@ -24,7 +24,7 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 ## Technologies I Used
 * Semantic HTML5.
 * CSS.
-* Vanilla Javascript.
+* Javascript.
 * API.
 
 ## What I Learned
