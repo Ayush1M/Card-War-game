@@ -16,6 +16,7 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 * To draw two cards one for myself and other one for computer.
 * Display the remaining cards when we draw two new cards.
 * Disable the draw button when remaining cards is zero.
+* Display the winner.
 
 ## Screenshot
 
