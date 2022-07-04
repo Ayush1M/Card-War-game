@@ -1,16 +1,37 @@
-# title(){return this.options.title||this.options.name}
+# Card War Game
+## Table of Content
 
-## Supporting Scrimba
+ * [Overview of the Project](#overview-of-the-project)
+      * [Goal of the project](#goal-of-the-project)
+      * [Screenshot](#screenshot)
+ * [Technologies I Used](#technologies-i-used)
+ * [What I Learned](#what-i-learned) 
+ * [Acknowledgement](#acknowledgement)
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+# Overview of the Project
+The project is focused on making a Card war game using Deckofcards API to call cards. It works on the simple principle of cards game in which Ace is the biggest and follows a decreasing order pattern.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+### Goal of the Project
+* The Goal of this is to use the deckofcards API to call cards.
+* To draw two cards one for myself and other one for computer.
+* Display the remaining cards when we draw two new cards.
+* Disable the draw button when remaining cards is zero.
+* Display the winner.
 
-	It would also mean the world to us if you share the courses.  
+## Screenshot
 
-Happy Coding!
+
+## Technologies I Used
+* Semantic HTML5.
+* CSS.
+* Javascript.
+* API.
+
+## What I Learned
+* How to read through API documentation and use different API data.
+* Learned about Callback function.
+* Learned about Promises.
+* Learned about async/await.
+
+## Acknowledgment
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
