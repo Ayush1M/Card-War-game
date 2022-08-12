@@ -20,6 +20,7 @@ The project is focused on making a Card war game using Deckofcards API to call c
 
 ## Screenshot
 
+![](./img/card-war-game-screenshot.png)
 
 ## Technologies I Used
 * Semantic HTML5.
